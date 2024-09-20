@@ -1,0 +1,111 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: "inter", sans-serif !important;
+}
+body{
+  background-color: #000000;
+}
+
+.blue{
+   color: rgb(0, 0, 255) !important;
+}
+
+.gray{
+  color: #f5deb3 !important;
+}
+
+li{
+  list-style: none !important;
+}
+
+.navbar .nav-link {
+  font-size: 14px !important;
+  padding: 10px 30px 10px 30px;
+}
+
+.navbar .nav-link;hover {
+  background-color: #808080;
+}
+
+.contact-btn{
+  font-size: 14px;
+  padding: 10px 20px 10px 20px;
+  border: 2px solid #0000ff;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+ .bg {
+  background-image: url();
+  min-height: 125vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+ }
+
+ .social span{
+  padding: 10px;
+ }
+
+ .text {
+  padding-top: 30vh;
+  text-align: justify;
+ }
+ .profile{
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  box-shadow: 1px 1px 50px 1px #0000ff;
+ }
+ .isi{
+  margin: 20px;
+ padding: 20px;
+ display: block;
+ align-items: center;
+ }
+
+ .card{
+  background-color: transparent !important;
+  box-shadow: #0000ff 1px 1px 13px 1px;
+  min-width: 100%;
+  max-height: 450px;
+  padding-bottom: 30px;
+  margin-bottom: 50px;
+ }
+ .background .card img{
+  padding: 10px;
+  max-height: 250px;
+  border-radius: 30px !important;
+ }
+ .background .card h4{
+  max-width: 280px;
+ }
+ #contact{
+  margin-bottom: 100px;
+ }
+ form input,
+ textarea{
+  color: #f5f5f5 !important;
+ }
+ form input::placeholder,
+ textarea::placeholder{
+  color: #f5f5f5 !important;
+  font-size: 11px !important;
+  font-weight: 300 !important;
+ }
+ form input,
+ textarea{
+  background-color: #f5f5f5 !important;
+  border: 2px solid #0000ff !important;
+ }
+ .btn-primary{
+  background-color: #f5f5f5;
+  padding: 10px 50px 10px 50px;
+ }
+ 
+
+
+
+  
